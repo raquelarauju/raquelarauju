@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m not currently working, unfortunaly.
+- 🌱 I’m currently learning Web Development.
+- 🤔 I’m looking for help with find a jov which I will to collaborate on web and mobile development.
+- 📫 How to reach me: send me a email! araujandoo@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am often afraid of the dark but I prefer the night to the day!
+
 <!--
 **raquelarauju/raquelarauju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
